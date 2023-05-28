@@ -45,3 +45,5 @@ venv/
 *.sh
 
 project-deployment/
+
+.vs/
