@@ -44,6 +44,6 @@ venv/
 # Ignore .sh files
 *.sh
 
-project-deployment/
+
 
 .vs/
